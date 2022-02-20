@@ -1,3 +1,3 @@
-# Дипломная работа блока "Основы Java" TextGraphicsConverter
+# Моя дипломная работа блока "Основы Java" TextGraphicsConverter
 
 Netology.ru
